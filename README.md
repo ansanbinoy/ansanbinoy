@@ -22,7 +22,6 @@
 [6.1]: https://img.icons8.com/ios-glyphs/30/000000/github.png
 [7.1]: https://img.icons8.com/ios-glyphs/30/000000/secured-letter.png
 
-
 [1]: https://www.twitter.com/ansanbinoy
 [2]: https://www.instagram.com/_ansan_binoy_
 [3]: https://www.facebook.com/ansan.binoy.3
