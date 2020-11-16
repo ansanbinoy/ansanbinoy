@@ -1,8 +1,7 @@
 # Hi there :)
 
 <p align="center">
-<br><img src="https://github.com/ansanbinoy/ansanbinoy/blob/main/logo.png" width="250px"><br><br>
-</p>
+
 
 ![Ansan Binoy github stats](https://github-readme-stats.vercel.app/api?username=ansanbinoy&show_icons=true&show_icons=true&hide=issues&include_all_commits=true&theme=dark)
 
